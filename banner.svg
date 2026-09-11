@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+    <radialGradient id="r1" cx="0.9" cy="0" r="0.7"><stop offset="0" stop-color="#a78bfa" stop-opacity=".30"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></radialGradient>
+    <radialGradient id="r2" cx="0" cy="1" r="0.6"><stop offset="0" stop-color="#22d3ee" stop-opacity=".22"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".05"/></pattern>
+    <clipPath id="c"><rect width="1200" height="300" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="1200" height="300" fill="#07090f"/>
+    <rect width="1200" height="300" fill="url(#grid)"/>
+    <rect width="1200" height="300" fill="url(#r1)"/>
+    <rect width="1200" height="300" fill="url(#r2)"/>
+    <!-- bar chart motif -->
+    <g transform="translate(880,70)" opacity=".9">
+      <rect x="0"   y="110" width="34" height="50"  rx="5" fill="#22d3ee" fill-opacity=".35"/>
+      <rect x="50"  y="80"  width="34" height="80"  rx="5" fill="#22d3ee" fill-opacity=".5"/>
+      <rect x="100" y="95"  width="34" height="65"  rx="5" fill="#60a5fa" fill-opacity=".55"/>
+      <rect x="150" y="45"  width="34" height="115" rx="5" fill="#818cf8" fill-opacity=".65"/>
+      <rect x="200" y="15"  width="34" height="145" rx="5" fill="#a78bfa" fill-opacity=".85"/>
+      <polyline points="17,100 67,70 117,85 167,35 217,5" fill="none" stroke="#e6eaf2" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-opacity=".8"/>
+      <circle cx="217" cy="5" r="5" fill="#e6eaf2"/>
+    </g>
+    <text x="64" y="92" font-family="Consolas, 'JetBrains Mono', Menlo, monospace" font-size="18" fill="#34d399">● open to data, BI &amp; AI consulting roles</text>
+    <text x="62" y="168" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="64" font-weight="700" fill="url(#g)">Shibasis Namdev</text>
+    <text x="64" y="214" font-family="Consolas, 'JetBrains Mono', Menlo, monospace" font-size="22" fill="#22d3ee">Data Scientist &amp; Solution Designer</text>
+    <text x="64" y="254" font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="18" fill="#8b95a9">Power BI  ·  Python  ·  AI/ML  ·  Government data systems  ·  8+ yrs across KPMG, EY, PwC</text>
+  </g>
+</svg>
