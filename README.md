@@ -1,11 +1,14 @@
-<h1 align="left">Hi, I'm Shibasis Namdev</h1>
+<p align="center">
+  <a href="https://shibasisn2-lgtm.github.io"><img src="./banner.svg" alt="Shibasis Namdev - Data Scientist and Solution Designer" width="100%"></a>
+</p>
 
-**Data Scientist & Solution Designer** · Power BI · Python · AI/ML · Government data systems
+<p align="center">
+  <a href="https://shibasisn2-lgtm.github.io"><img src="https://img.shields.io/badge/View%20my%20portfolio-%E2%86%92-22d3ee?style=for-the-badge&labelColor=0b0f17" alt="View my portfolio"></a>
+  <a href="mailto:Shibasisn2@gmail.com"><img src="https://img.shields.io/badge/Email-Shibasisn2%40gmail.com-a78bfa?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b0f17" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Based%20in-Bhubaneswar%2C%20India-34d399?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0b0f17" alt="Based in Bhubaneswar, India">
+</p>
 
 I build dashboards, data pipelines and small AI tools that help people make decisions from messy data. For 8+ years I've worked across consulting firms and industry on BI, analytics and process automation. Right now I'm at KPMG India, working on a World Bank-supported statistical capacity reform programme with the Government of Odisha.
-
-[![Email](https://img.shields.io/badge/Email-Shibasisn2%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Shibasisn2@gmail.com)
-![Location](https://img.shields.io/badge/Based%20in-Bhubaneswar%2C%20India-555?style=flat&logo=googlemaps&logoColor=white)
 
 ---
 
@@ -66,4 +69,4 @@ MBA, Project Management · MSc, Computer Science · BSc, Computer Science
 
 ---
 
-Open to conversations about data, BI and AI consulting roles. The quickest way to reach me is email.
+Open to conversations about data, BI and AI consulting roles. The quickest way to reach me is email, or have a look at my [portfolio site](https://shibasisn2-lgtm.github.io).
